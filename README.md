@@ -7,8 +7,7 @@ Jos löytyy, ohjelma lähettää Arduinolle 1:n, muutoin 0:n. Arduino käskee vi
 ja moottorin kääntyä 180 asteen kulmaan 3:ksi sekunniksi, jonka jälkeen se palaa lähtökulmaan.
 Jos taas käyttäjää ei löydy, väläytetään punaista lediä.
 
-Ohjelma käyttää AccelStepper (http://www.airspayce.com/mikem/arduino/AccelStepper/) ja
-MFRC522 (https://github.com/miguelbalboa/rfid) -kirjastoja.
+Arduinossa pyörivä ohjelma käyttää AccelStepper (http://www.airspayce.com/mikem/arduino/AccelStepper/) ja MFRC522 (https://github.com/miguelbalboa/rfid) -kirjastoja.
 
 TODO:
 Python-ohjelmassa käyttäjänhallinta kuntoon ja kortin ohjelmointitila (rfid-tagiin voi lisätä käyttäjätietoja
