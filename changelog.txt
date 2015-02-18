@@ -1,0 +1,7 @@
+
+18.02.2015
+
+- Ensimm‰inen committaus GitHubiin.
+- Kun mik‰ tahansa tagi vied‰‰n lukijan l‰helle, lukko aukeaa, 
+eli moottori k‰‰ntyy 180 astetta ja v‰l‰ytet‰‰n vihre‰‰ ledi‰.
+- Yhteys PC:n ja Arduinon v‰lill‰ ok.
